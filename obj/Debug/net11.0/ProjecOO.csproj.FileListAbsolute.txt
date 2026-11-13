@@ -1,0 +1,16 @@
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\bin\Debug\net11.0\ProjecOO.exe
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\bin\Debug\net11.0\ProjecOO.deps.json
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\bin\Debug\net11.0\ProjecOO.runtimeconfig.json
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\bin\Debug\net11.0\ProjecOO.runtimeconfig.dev.json
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\bin\Debug\net11.0\ProjecOO.dll
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\bin\Debug\net11.0\ProjecOO.pdb
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\obj\Debug\net11.0\ProjecOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\obj\Debug\net11.0\ProjecOO.AssemblyInfoInputs.cache
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\obj\Debug\net11.0\ProjecOO.AssemblyInfo.cs
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\obj\Debug\net11.0\ProjecOO.csproj.CoreCompileInputs.cache
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\obj\Debug\net11.0\ProjecOO.dll
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\obj\Debug\net11.0\refint\ProjecOO.dll
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\obj\Debug\net11.0\ProjecOO.pdb
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\obj\Debug\net11.0\ProjecOO.genruntimeconfig.cache
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\obj\Debug\net11.0\ref\ProjecOO.dll
+C:\Users\jmdeo\OneDrive\Desktop\PROYECTOS\P1_FINAL\ProjecOO\obj\Debug\net11.0\ProjecOO.csproj.Up2Date
